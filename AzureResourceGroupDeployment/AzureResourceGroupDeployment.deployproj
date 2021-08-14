@@ -29,6 +29,7 @@
     <Content Include="Deploy-AzureResourceGroup.ps1" />
     <Content Include="WebSiteSQLDatabase.json" />
     <Content Include="WebSiteSQLDatabase.parameters.json" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
